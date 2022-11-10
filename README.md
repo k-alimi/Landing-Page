@@ -1,37 +1,28 @@
-# Landing-Page# Front End Nanodegree Program
-
-Front End Nanodegree Content & Project Resources
+# Landing Page Project
 
 ## Table of Contents
 
-* [Projects](#projects)
-* [Courses](#courses)
-* [Style-Guide](#style-guide)
+* [Project Summary](#projectsummary)
+* [Takeaways](#takeaways)
+* [Details](#details)
+* [Resources](#resources)
 
-## Projects
+## Project Summary
 
-The following is a list of current projects required to complete the Front End Nanodegree.
+The goal of this project was to build a multi-section landing page that dynamically added content to the page. Specifically to the navigation menu. In addition to this, another goal was to improve the user experience such that when a user selects an menu item on the menu, the item will scroll the user to the corresponding section. And said section being viewed will be visually differentiated from the others.
 
-Note that projects that do not include associated starter code are not linked here.
+![image](https://user-images.githubusercontent.com/47795311/200973552-b2cd3918-be58-4de7-947a-9a2138b2b5b1.png)
 
-1. Personal Blog Website
-2. [Landing Page](https://github.com/udacity/fend/tree/refresh-2019/projects/landing-page)
-3. [Weather Journal App](https://github.com/udacity/fend/tree/refresh-2019/projects/weather-journal-app)
-4. [Evaluate A News Article with Natural Language Processing](https://github.com/udacity/fend/tree/refresh-2019/projects/evaluate-news-nlp)
-5. Capstone - Travel App
+![image](https://user-images.githubusercontent.com/47795311/200973589-342a22e3-6917-4807-a915-43894d4c3ce5.png)
 
-## Courses
+![image](https://user-images.githubusercontent.com/47795311/200973609-c028376d-bd7d-4b8e-8bdc-eecddb2548b3.png)
 
-The following is a list of the courses associated with the Front End Nanodegree.
 
-* C1 - CSS, Website Layout, Website Components
-* C2 - JavaScript & The DOM
-* C3 - Web API's and Asynchronous Applications
-* C4 - Build Tools and Single Page Web Apps
-* C5 - Capstone
+## Takeaways
+This project gave me the opportunity to integrate skills from previous projects, HTML & CSS, with JavaScript in a more complex project. I also built on my understanding of the DOM and how to manipulate it. As well as improve the overall user experience when interacting with websites. 
 
-## Style-Guide
+## Details
+The langugaes used in this project were HTML, CSS, and JavaScript. In addition to this README file, there are three files: index.html, style.css, and app.js. These are all needed to run this project. 
 
-See below for the Udacity Style Guide used thoroughout the Front End Nanodegree.
-
-* [Nanodegree Style Guide](http://udacity.github.io/frontend-nanodegree-styleguide/)
+## Resources
+I utilized Javascript Tutorial (javascripttutorial.net) as a resource to get a helper function that would assist me in checking if a section was in the viewport: https://www.javascripttutorial.net/dom/css/check-if-an-element-is-visible-in-the-viewport/
