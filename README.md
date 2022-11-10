@@ -22,7 +22,7 @@ The goal of this project was to build a multi-section landing page that dynamica
 This project gave me the opportunity to integrate skills from previous projects, HTML & CSS, with JavaScript in a more complex project. I also built on my understanding of the DOM and how to manipulate it. As well as improve the overall user experience when interacting with websites. 
 
 ## Directions
-The project folder itself is located in this directory : Landing-Page/fend-refresh-2019/projects/landing-page/. The project zip file (weather-journal-app (2).zip) is located in : Landing-Page/fend-refresh-2019/projects/. 
+The project folder itself is located in this directory : Landing-Page/fend-refresh-2019/projects/landing-page/. The project zip file (landing-page.zip) is located in : Landing-Page/fend-refresh-2019/projects/. 
 
 Download and unzip the file to run the project. 
 
